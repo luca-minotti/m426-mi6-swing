@@ -11,7 +11,7 @@ import ch.bbzbl.entity.Agent;
 public class Mi6 {
  
 	private AgentDAO agentDAO;
-	
+	// Hallo
 	public Mi6(){
 		//agentDAO = new AgentDBDAOImpl();
 		agentDAO = new AgentDummyDAOImpl();
